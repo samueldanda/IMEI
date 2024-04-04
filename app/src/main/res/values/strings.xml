@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMEI</string>
+    <string name="imei_1_default_text">IMEI 1 will be displayed here</string>
+    <string name="imei_2_default_text">IMEI 2 will be displayed here</string>
+    <string name="device_imei_numbers">Device IMEI Numbers</string>
+    <string name="display_imei">Display Device Serial &amp; IMEI Numbers</string>
+    <string name="serial_number_default_text">Serial number will be displayed here</string>
+</resources>
